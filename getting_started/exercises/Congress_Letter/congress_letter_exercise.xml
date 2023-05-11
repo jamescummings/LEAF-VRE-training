@@ -48,7 +48,7 @@
 		<body>
 			<pb facs="https://raw.githubusercontent.com/LEAF-VRE/training/main/getting_started/exercises/Congress_Letter/congress_letter_image1.jpg"/>
 
-			<opener>To the Honorable the Senate and House of Representatives of the United States in
+			<opener>To the Honorable the Senate and House of Representatives of the <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="fictitious" xml:space="default">United</objectName> States in
 				Congress Assembled:</opener>
 			<p>The undersigned, Citisens of the United States, believing that under the present
 					Federal Constitution all women who are citisens of the United States have the
