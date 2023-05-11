@@ -206,7 +206,7 @@
 		<body>
 			<pb facs="https://raw.githubusercontent.com/LEAF-VRE/training/main/getting_started/exercises/Congress_Letter/congress_letter_image1.jpg"/>
 
-			<opener>To the Honorable the Senate and House of Representatives of the <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="fictitious" xml:space="default">United</objectName> States in
+			<opener>To the Honorable the Senate and House of Representatives of the United States in
 				Congress Assembled:</opener>
 			<p>The undersigned, Citisens of the United States, believing that under the present
 					Federal Constitution all women who are citisens of the United States have the
@@ -222,7 +222,13 @@
 				floor of Congress and so may be said to be heard there, women
 				who are allowed no vote and therefore no representation cannot truly be heard except
 				as Congress shall open its doors to us in person.</p>
-			<closer><signed><persName key="Stanton, Elizabeth (American painter, born 1894)" ref="http://viaf.org/viaf/96635666/">Elizabeth Cady Stanton</persName> <persName key="Hooker, Isabella Beecher, 1822-1907" ref="http://viaf.org/viaf/13591703/">Isabella Beecher Hooker</persName> Elizabeth S. Bladen Olympia Brown Susan B. Anthony Josephine S. Griffing</signed> 
+			<closer>Elizabeth Cady
+						Stanton 
+				Isabella Beecher Hooker 
+				Elizabeth S. Bladen 
+				Olympia Brown 
+				Susan B. Anthony 
+				Josephine S. Griffing 
 				Hartford Conn. Dec. 1871</closer>
 		</body>
 	</text>
